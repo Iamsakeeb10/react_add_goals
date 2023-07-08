@@ -8,7 +8,7 @@ This is a very simple add goals app built with react.
 - Validation if nothing entered.
 
 ## Live Link
-https://expense-tracker2003.netlify.app/
+https://add-goals22.netlify.app/
 
 ## User Interface
 ![Screenshot (205)](https://github.com/Iamsakeeb10/react_add_goals/assets/114988476/edd0be33-65a5-4f4b-9453-0f434028d45d)
